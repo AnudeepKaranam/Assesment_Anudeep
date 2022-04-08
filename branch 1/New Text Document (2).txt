@@ -4,4 +4,4 @@ we are writing this text
 we are learning devops
 
 
-thank you
+thank you.
